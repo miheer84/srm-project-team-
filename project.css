@@ -1,0 +1,52 @@
+#mountain{
+    height: 600px;
+    width: 100%;
+}
+.image{
+    height: 650px;
+    width: 100%;
+}
+#gallery{
+   
+    background-color: darkslategrey;
+    padding-top: 50px ;
+    padding-bottom: 45px;
+}
+#carousel{
+    margin-bottom: 100px;
+}
+#row{
+    margin-top: 50px;
+}
+#heading{
+    color: whitesmoke;
+    font-size: 3.4rem;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    
+}
+#nav-color{
+    background-color: coral;
+}
+#about{
+    padding-bottom: 25px;
+    margin-left:10px ;
+}
+#text{
+    padding-top: 45px;
+    font-weight: 200;
+    padding-right: 45px;
+    font-size: 1.2rem;
+}
+#welcome{
+    margin-bottom: 245px;
+}
+.footer{
+    background-color: #303036;
+    color: #d3d3d3;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+}
+
+
